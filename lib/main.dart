@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
           ChangeNotifierProvider(create: (_) => SkillsProvider()),
         ],
         child: MaterialApp(
-            title: 'Flutter Demo',
+            title: 'Sistema Recomendador de Trabajos',
             debugShowCheckedModeBanner: false,
             theme: ThemeData(
               primarySwatch: Colors.blue,

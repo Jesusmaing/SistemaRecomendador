@@ -31,8 +31,7 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 # all folders and files in build/ except build/web
-build/*
-!/build/web/
+/build/
 
 # Symbolication related
 app.*.symbols
